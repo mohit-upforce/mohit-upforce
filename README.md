@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 🔭 I’m currently working on exciting projects in web development and AI.
 - 🌱 I’m always eager to learn new technologies and improve my skills.
 - 💬 Ask me about JavaScript, Python, and machine learning.
-- 📫 How to reach me: [mohit.upforce@example.com](mailto:mohit.upforce@example.com)
+- 📫 How to reach me: [mohit@upforce.tech](mailto:mohit@upforce.tech)
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
 ## 🛠️ Technologies & Tools
